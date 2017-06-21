@@ -1,0 +1,53 @@
+{"stations":[
+	{
+		"x":50,
+		"y":50,
+		"carburant":45000,
+		"money":100000,
+		"module":[
+			"metal"
+		]
+	},
+	{
+		"x":200,
+		"y":200,
+		"carburant":50000
+	},
+	{
+		"x":500,
+		"y":250,
+		"carburant":50000,
+		"module":[
+			"carburant"
+		]
+
+	},
+	{
+		"x":400,
+		"y":200,
+		"carburant":50000
+	},
+	{
+		"x":450,
+		"y":500,
+		"carburant":50000
+	}
+
+
+],
+"vaisseaux":[
+	{
+		"index_station":0
+	},
+	{
+		"index_station":3
+	}
+	,
+	{
+		"index_station":4
+	}
+	
+	
+	
+]
+}

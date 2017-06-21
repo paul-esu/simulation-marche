@@ -1,0 +1,32 @@
+{"stations":
+	{
+	"carburant_max":100000,
+	"metal_max":100000,
+	"conso":50,
+	"money":50000
+	},
+"vaisseaux":
+	{
+		"vitesse":12,
+		"conso":1,
+		"carburant_max":200,
+		"fret_max":5000
+	},
+"module_carburant":{
+		"production":300
+	},
+"module_metal":{
+		"production":25,
+		"conso":30
+	},
+"ressources":[{
+	"type":"carburant",
+	"prix":0.5
+},{
+	"type":"metal",
+	"prix":20
+}
+]
+
+
+}
